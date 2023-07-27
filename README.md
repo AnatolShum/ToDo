@@ -1,3 +1,3 @@
 # ToDo
-Firebase Authentication
-Firestore Database
+Firebase Authentication,
+Firestore Database.
